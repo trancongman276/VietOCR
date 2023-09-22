@@ -1,5 +1,5 @@
 # VietOCR
-VietOCR model exported/quantized to OpenVINO
+![VietOCR](https://github.com/pbcquoc/vietocr) model exported/quantized to OpenVINO
 
 ## Installation
 
